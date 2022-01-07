@@ -1,0 +1,3 @@
+In this project we can create blogs make db interaction.
+perform crud operation
+ALSO HAVE THE MVC PATTERN FUNCTIONALITY.
